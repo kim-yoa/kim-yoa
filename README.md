@@ -5,7 +5,7 @@
 
 
 ### Information
-📧 Email: [biz@kimyoa.com](mailto:biz@kimyoa.com)   
+📧 Email: [biz@kimyoa.com](mailto:biz@kimyoa.com), [support@MyCHZZK.us](mailto:support@MyCHZZK.us)   
 <!-- ![GitHub] -->
 <!--
 **kim-yoa/kim-yoa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
